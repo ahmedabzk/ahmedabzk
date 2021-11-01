@@ -1,9 +1,9 @@
 ### Hi there 👋
-<!-- ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedabzk&count_private=true&show_icons=true&theme=synthwave) -->
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedabzk&count_private=true&show_icons=true&theme=synthwave)
 
 
 
-[![ahmedabzk's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabzk&theme=blue-green)](https://github.com/ahmedabzk/)
+<!-- [![ahmedabzk's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabzk&theme=blue-green)](https://github.com/ahmedabzk/) -->
 
 <center>
   <table>
