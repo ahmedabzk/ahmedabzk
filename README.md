@@ -3,12 +3,12 @@
 
 
 
-[![ahmedabzk's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabzk&theme=blue-green)](https://github.com/ahmedabzk/)
+[![ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabzk&theme=blue-green)](https://github.com/ahmedabzk/)
 
 <center>
   <table>
   <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabzk&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Ahmedd's github stats" /></td>
+<!--       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabzk&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Ahmed's github stats" /></td> -->
 <!--       <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabzk&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabzk&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" /> -->
 </a>
