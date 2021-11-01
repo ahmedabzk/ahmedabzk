@@ -6,8 +6,7 @@
 <center>
   <table>
   <tr>
-      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabzk&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-<!--   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabzk&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" /> -->
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabzk&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" />
 </a>
 </td>
   </tr>   
