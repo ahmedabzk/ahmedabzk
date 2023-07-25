@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ahmedabzk" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedabzk?logo=twitter&style=for-the-badge" alt="ahmedabzk" /></a> </p>
 
 
-- 💬 Ask me about **Go & Flutter**
+- 💬 Ask me about **Rust & Flutter**
 
 - 📫 How to reach me **ahmed.abzk@gmail.com**
 
